@@ -168,7 +168,7 @@ INSERT INTO employees (
     overtime_id
 )
 VALUES 
-	('Gregory', 'Harrison', 'M', '26 James Drive', 'gregoryharrison@gmail.com', 4, 2, 6, 5);
+	('Harry', 'Ambrose', 'M', '35 Cold Street, Glendale', 'harryambrose@gmail.com', 3, 2, 4, 0);
 	
 SELECT * FROM 
 	employees LEFT JOIN department 
